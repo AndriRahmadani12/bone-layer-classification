@@ -1,5 +1,3 @@
-# Bone_Layer_Classification
-
 # Bone Layer Classification with LSTM
 
 ## Introduction
